@@ -167,3 +167,25 @@ header {
     margin-bottom: 24px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.cta p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+
+.cta h2 {
+    font-size: 34px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.cta button {
+    width: 350px;
+    padding: 12px;
+    border-radius: 30px;
+    border: 2px solid #000;
+    background-color: #D4AF37;
+    font-size: 22px;
+    cursor: pointer;
+}
