@@ -106,6 +106,7 @@ header {
     font-weight: semi-bold;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
 }
 
 .hero-read{
@@ -116,5 +117,53 @@ header {
     font-size: 18px;
     font-weight: semi-bold;
     text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+/* CTA SECTION */
+
+/* VENSTRE SIDE */
+.cta-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+
+.cta-img {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  object-fit: cover;
+}
+
+.small-imgs{
+    display: flex;
+    gap: 20px;
+    margin-top:30px;
+    width:240px;
+    flex-direction: row;
+    margin-left: 76px;
+}
+
+.main-img {
+  width: 600px;
+}
+
+.small-imgs img {
+  width: 130px;
+}
+
+/* HØJRE SIDE */
+
+.cta {
+    width: 35%;
+}
+
+.cta h1 {
+    font-size: 36px;
+    font-weight: normal;
+    margin-bottom: 24px;
     font-family: Arial, Helvetica, sans-serif;
 }
