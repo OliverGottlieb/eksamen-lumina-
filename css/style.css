@@ -189,3 +189,102 @@ header {
     font-size: 22px;
     cursor: pointer;
 }
+
+/* INFO SECTION 1 */
+
+.info-section1 {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.text-section1 {
+    width: 45%;
+    padding: 60px;
+}
+
+.text-section1 h1 {
+    font-size: 38px;
+    font-weight: semi-bold;
+    margin-bottom: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-section1 p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    max-width: 500px;
+}
+
+.info-section1 img {
+    width: 55%;
+    height: 500px;
+    object-fit: cover;
+}
+
+/* INFO SECTION 2 */
+
+.info-section2 {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.text-section2 {
+    width: 45%;
+    padding: 60px;
+}
+
+.text-section2 h1 {
+    font-size: 38px;
+    font-weight: semi-bold;
+    margin-bottom: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-section2 p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    max-width: 500px;
+}
+
+.info-section2 img {
+    width: 55%;
+    height: 500px;
+    object-fit: cover;
+}
+
+/* INFO SECTION 3 */
+
+.info-section3 {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.text-section3 {
+    width: 45%;
+    padding: 60px;
+}
+
+.text-section3 h1 {
+    font-size: 38px;
+    font-weight: semi-bold;
+    margin-bottom: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-section3 p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    max-width: 500px;
+}
+
+.info-section3 img {
+    width: 55%;
+    height: 600px;
+    object-fit: cover;
+}
+
+/* TRUSTPILOT ANMELDELSER */
+
