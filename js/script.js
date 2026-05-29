@@ -10,3 +10,10 @@ smallImages.forEach((small) => {
     });
 
 });
+
+const heroRead = document.querySelector(".hero-read");
+const infoSection=document.querySelector(".info-section1");
+
+heroRead.addEventListener("click", () => {
+    infoSection.scrollIntoView({behavior:"smooth"});
+    });
