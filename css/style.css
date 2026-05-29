@@ -163,6 +163,12 @@ header {
   width: 240px;
   flex-direction: row;
   margin-left: 40px;
+  cursor: pointer;
+}
+
+.small:hover{
+    transform: scale(1.10);
+    transition: 0.3s;
 }
 
 .main-img {
