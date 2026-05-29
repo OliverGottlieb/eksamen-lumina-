@@ -162,7 +162,7 @@ header {
   margin-top: 30px;
   width: 240px;
   flex-direction: row;
-  margin-left: 76px;
+  margin-left: 40px;
 }
 
 .main-img {
@@ -170,7 +170,7 @@ header {
 }
 
 .small-imgs img {
-  width: 130px;
+  width: 120px;
 }
 
 /* HØJRE SIDE */
