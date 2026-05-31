@@ -11,11 +11,18 @@ Med JavaScript er det blevet muligt at skifte billeder i CTA-sektionen. Når man
 Det er også muligt at trykke på "Læs mere" i hero-sektionen. Når man gør det, scroller siden automatisk ned til informationssektionen. Dette er også lavet med simpel JavaScript.
 
 
-
 # Mappestruktur
 
 Der er lavet en simpel mappestruktur. en css mappe, med et css dokument. en image mappe med alle billederne i, små bogstaver og ingen mellemrum. en JS mappe med et JS dokument i.
 
+<img src="img/mappestruktur.png" alt="mappestruktur" width="400px">
+
+
+# Validering
+
+<img src="img/HTML validering.png" alt="HTML validering" width="400px">
+
+<img src="img/CSS validering.png" alt="CSS validering" width="400px">
 
 # JavaScript
 
