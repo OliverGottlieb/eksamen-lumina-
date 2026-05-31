@@ -20,7 +20,11 @@ Der er lavet en simpel mappestruktur. en css mappe, med et css dokument. en imag
 
 # Validering
 
+HTML der er ingen errors
+
 <img src="img/HTML validering.png" alt="HTML validering" width="400px">
+
+CSS ingen errors eller warnings
 
 <img src="img/CSS validering.png" alt="CSS validering" width="400px">
 
