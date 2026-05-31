@@ -29,7 +29,6 @@ header {
 
 #lumina {
   font-size: 30px;
-  font-weight: semi-bold;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -73,7 +72,6 @@ header {
 .hero-image img {
   width: 100%;
   height: 100%;
-  object-fit: right;
 }
 
 .hero-content {
@@ -104,7 +102,6 @@ header {
   color: black;
   padding: 12px 24px;
   font-size: 18px;
-  font-weight: semi-bold;
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
   cursor: pointer;
@@ -117,7 +114,6 @@ header {
   border: 2px solid #d4af37;
   padding: 12px 24px;
   font-size: 18px;
-  font-weight: semi-bold;
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
   cursor: pointer;
@@ -229,7 +225,6 @@ header {
 
 .text-section1 h1 {
   font-size: 38px;
-  font-weight: semi-bold;
   margin-bottom: 24px;
   font-family: playfair display, serif;
 }
@@ -261,7 +256,6 @@ header {
 
 .text-section2 h1 {
   font-size: 38px;
-  font-weight: semi-bold;
   margin-bottom: 24px;
   font-family: playfair display, serif;
 }
@@ -293,7 +287,6 @@ header {
 
 .text-section3 h1 {
   font-size: 38px;
-  font-weight: semi-bold;
   margin-bottom: 24px;
   font-family: playfair display, serif;
 }
